@@ -3,12 +3,7 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.4/web.browser/base64.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/code-generation.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/throw-compile-error.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/html-scanner.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/compile-tags-with-spacebars.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/0.1.4/web.browser/babel-runtime.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/templating-tools.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/autoupdate/1.2.4/web.browser/autoupdate_client.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/optimizer.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/codegen.js" />
@@ -108,12 +103,7 @@
     </properties>
     <CLASSES>
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.4/web.browser/base64.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/code-generation.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/throw-compile-error.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/html-scanner.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/compile-tags-with-spacebars.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/0.1.4/web.browser/babel-runtime.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/templating-tools.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/autoupdate/1.2.4/web.browser/autoupdate_client.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/optimizer.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/codegen.js" />
