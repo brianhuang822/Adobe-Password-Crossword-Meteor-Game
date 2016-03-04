@@ -10,3 +10,6 @@ bulk insert AdobeTable
 from 'C:\Users\Brian\Downloads\users\cred.csv'
 with (fieldterminator = '-|-', rowterminator = '|--', MAXERRORS= 99999999)
 go
+ALTER TABLE AdobeTable
+DROP COLUMN ID, NoClue, Acc
+go
